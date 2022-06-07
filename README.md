@@ -1,2 +1,2 @@
 # Bicep-Templates
-Public Bicep Templates from my blog
+Public Bicep templates from my blog
